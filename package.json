@@ -1,0 +1,24 @@
+{
+  "name": "cwd-server",
+  "version": "1.0.0",
+  "description": "local server that supports testing custom widgets in the Custom Widget Designer.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "type":"module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvent/cwd-server.git"
+  },
+  "author": "wbrayshaw@cvent.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvent/cwd-server/issues"
+  },
+  "homepage": "https://github.com/cvent/cwd-server#readme",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "ws": "^8.8.0"
+  }
+}
