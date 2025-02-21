@@ -19,6 +19,6 @@
   "homepage": "https://github.com/cvent/cwd-server#readme",
   "dependencies": {
     "md5": "^2.3.0",
-    "ws": "^8.8.0"
+    "ws": "^8.18.1"
   }
 }
